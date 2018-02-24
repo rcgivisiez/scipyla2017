@@ -11,6 +11,9 @@ A proposta a ser enviada deve incluir:
 - **Meios de divulgação**;
 - **Experiência prévia** Eventos como PyCon ou conferências científicas ou outros eventos locais e/ou internacionais),
 disponibilidade / recursos afetados e método de organização (lista de correio, grupo, wiki, etc.).
+
+---------------------------
+
 - **Sede tentativa** (Universidades, Centros de Investigación, Institutos de Capacitación, Coworking o similar);
 - **Roles principales** (comité organizador, comisión científica);
 - **Organización formal** (ONGs, Universidades o similar para el manejo de fondos): cuentas bancarias, tesoreros/gestores y cualquier otro tema que pudiera surgir (ej. sponsors y tiempos);
