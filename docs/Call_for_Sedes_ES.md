@@ -1,15 +1,16 @@
-## Invitamos a los interesados a organizar la SciPy Latin America 2018 a realizar las propuestas de sede.  
+## Convidamos os interessados a organizar a SciPy Latin America 2019 a realizar as propostas de sede.
 
-La propuesta a realizar debe incluir:
+A proposta a ser enviada deve incluir:
 
 - **Objetivos**
-    - Expandir el área geográfica dónde se realiza la conferencia (SciPy Argentina 2013 tuvo lugar en Puerto Madryn Argentina, SciPy Argentina 2014 se realizó en Bahía Blanca Argentina, en la versión 2015 se realiza el cambio de nombre a SciPy Latin América y tiene sede en Posadas Argentina, en 2016 tiene sede en Florianópolis / Brasil, en 2017 tiene sede en Cuba). Es esperable que la versión 2018 tome lugar en algún país de latinoamérica.
-    - Hacer hincapié en temas como diversidad, ampliar la comunidad o conectarse con otras comunidades;
-    - Enfoque a la industria, herramientas, core, educación etc.
+    - Expandir a área geográfica onde realiza-se a conferência (SciPy Argentina 2013 ocorreu em Puerto Madryn - Argentina, SciPy Argentina 2014 ocorreu em Bahía Blanca - Argentina, a versão de 2015 sofreu mudança de nome e passa a se chamar SciPy Latin America, tendo sede em Posadas - Argentina, e em 2016 teve sede em Florianópolis - Brasil). A versão 2018 será sediada em Curitiba - Brasil;
+    - Enfatizar temas como diversidade, ampliar a comunidade ou conectar-se com outras comunidades;
+    - Enfoque na indústria, ferramentas, core (núcleo), educação, etc.
 
 - **Público estimado**;
-- **Medios de difusión**;
-- **Experiencia Previa** Eventos como PyCon o conferencias científicas u otros eventos locales y/o internacionales), disponibilidad / recursos afectados y método de organización (lista de correo, grupo, wiki, etc.).
+- **Meios de divulgação**;
+- **Experiência prévia** Eventos como PyCon ou conferências científicas ou outros eventos locais e/ou internacionais),
+disponibilidade / recursos afetados e método de organização (lista de correio, grupo, wiki, etc.).
 - **Sede tentativa** (Universidades, Centros de Investigación, Institutos de Capacitación, Coworking o similar);
 - **Roles principales** (comité organizador, comisión científica);
 - **Organización formal** (ONGs, Universidades o similar para el manejo de fondos): cuentas bancarias, tesoreros/gestores y cualquier otro tema que pudiera surgir (ej. sponsors y tiempos);
