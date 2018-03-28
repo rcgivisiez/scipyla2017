@@ -11,23 +11,16 @@ A proposta a ser enviada deve incluir:
 - **Meios de divulgação**;
 - **Experiência prévia** Eventos como PyCon ou conferências científicas ou outros eventos locais e/ou internacionais),
 disponibilidade / recursos afetados e método de organização (lista de correio, grupo, wiki, etc.).
-
 - //**Sede tentativa**// (Universidades, Centros de Investigação, Institutos de Capacitação, Coworking ou similares);
 - **Papéis principais** (comitê organizador, comissão científica);
 - **Organização formal** (ONGs, Universidades ou similares para a administração de fundos): contas bancárias, tesoureiros/gestores e qualquer outro tema que possa surgir (ex. sponsors e //tempos//);
-- **Propostas de dias e cronograma geral** 
-
----------------------------
-
-( charlas y actividades especiales como posters, reuniones de trabajo, talleres, etc.). No olvidar el Llamado a Propuestas (talks, papers y otros formatos);
-- **Presupuesto aproximado y financiamiento** Ver Llamado a [Sponsors](http://www.scipyla.org/conf/2013/sponsors/index.html). Importante: debido a dificultades para recibir fondos desde el exterior, recomendamos no hacer descuentos ni otras facilidades para los auspiciantes extranjeros, y contemplar al menos 4 meses para realizar todos los trámites necesarios y poder recibir el dinero;
-- **Temas Accesorios**: impresiones (programas, credenciales, microtutoriales), artículos promocionales (remera, recuerdos, bolsa, etc.), catering (desayunos, almuerzos y coffee breaks) y logística (combis / taxis, si corresponde)
-- **Actividades sociales** (recepción, paseos turísticos, asado, fiesta de cierre), si bien no son imprescindibles, pueden ser muy interesantes para los viajeros internacionales y es una excelente oportunidad para conocer gente y hablar sobre proyectos de manera más distendida. Ver [SciPyCon Argentina 2013](http://www.scipyla.org/conf/2013/venue/index.html)
-- **Formas de llegar** Aeropuertos, colectivos y otros medios de transporte para tráfico nacional e internacional.
-- **Comunidad local** Grupos de interés relacionados con la ciencia y/o Python que puedan participar como público, asistentes u organización.
-- **Plaza hotelera** (oficialmente se debería elegir un hotel standard accesible y también un hotel 5 estrellas para los participantes que así lo requieran). Por experiencia, los hoteles deberían ser céntricos para facilitar la movilidad de los pasajeros, y tener flexibilidad para las reservas/pagos. Ver [SciPyCon Argentina 2013](http://www.scipyla.org/conf/2013/venue/index.html)
-
--------------------------------
+- **Propostas de dias e cronograma geral** (palestras e atividades especiais como pôsteres, reuniões de trabalho, //talleres//,etc.). Não esquecer a Chamada de Propostas (talks, papers e outros formatos);
+- **Orçamento aproximado e financiamiento** Ver chamada de Sponsors. Importante: devido a dificuldades para receber fundos do exterior, recomendamos não fazer descontos nem outros benefícios para os //auspiciantes// estrangeiros, e planejar ao menos 4 meses para realizar todos os trâmites necessários para receber o dinheiro.
+- **Acessórios temáticos**: impressões (programas, credenciais, minitutoriais), acessórios promocionais (//remera//, lembrancinhas, bolsas, etc.), gathering (cafés da manhã, almoços e coffee breaks) e logstica (vans / taxis, etc).
+- **Atividades sociais** (recepção, passeios turísticos, //asado//, festa de encerramento), apesar de não serem imprescindíveis, podem ser muito interessantes para os viajantes internacionais e uma excelente oportunidade para conhecer pessoas e falar sobre projetos de maneira mais extensa. Ver [SciPyCon Argentina 2013]
+- **Formas de chegar** Aeroportos, transporte coletivo e outros meios de transporte para tráfego nacional e internacional.
+- **Comunidade local** Grupos de interesse relacionados com a ciência e/ou Python que possam participar como público, assistentes ou organização.
+- **Hotel do evento** (oficialmente deveria-se eleger um hotel padrão acessível e também um 5 estrelas para os participantes que desejarem). Por experiência, os hotéis deveriam ser centrais para facilitar a mobilidade dos viajantes, e ter flexibilidade para as reservas/pagamentos. Ver [SciPyCon Argentina 2013](http://www.scipyla.org/conf/2013/venue/index.html)
 
 #### Conselhos
 
