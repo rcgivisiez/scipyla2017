@@ -27,25 +27,26 @@ disponibilidade / recursos afetados e método de organização (lista de correio
 - **Comunidad local** Grupos de interés relacionados con la ciencia y/o Python que puedan participar como público, asistentes u organización.
 - **Plaza hotelera** (oficialmente se debería elegir un hotel standard accesible y también un hotel 5 estrellas para los participantes que así lo requieran). Por experiencia, los hoteles deberían ser céntricos para facilitar la movilidad de los pasajeros, y tener flexibilidad para las reservas/pagos. Ver [SciPyCon Argentina 2013](http://www.scipyla.org/conf/2013/venue/index.html)
 
-#### Consejos
+-------------------------------
 
-- Recomendamos que la sea de entrada libre y gratuita a todas las actividades.
-- Mantener actividades para adolecentes y/o estudiantes de colegio secundario.
-- Enfocarse en tener relaciones con las instituciones y centros de investigación cercanos a la sede de la conferencia.
-- Mantener charlas de 30', 45', tutoriales de 180' y sesiones de posters.
-- Realizar eventos satélites a la conferencia.
+#### Conselhos
 
-### Como enviar la propuesta
+- Recomendamos que todas as atividades sejam de entrada livre e gratuita.
+- Manter atividades para adolescentes e/ou estudantes de segundo grau.
+- Focar em ter relações com as instituições e centros de pesquisa próximos a sede da conferência.
+- Manter palestras de 30 a 45 minutos, tutoriais de 180 minutos e sessões de pôsteres.
+- Realizar eventos satélites a conferência.
 
-El formulario para envio de propuesta está disponible en http://bit.ly/scipyla2018-propose-host .
+### Como enviar a proposta
 
-### Elección
+O formulário para envio da proposta está disponível em //http://bit.ly/scipyla2018-propose-host// .
 
-Se eligirá la sede al final en el ultimo Slot ([fecha]). El que no pueda asistir y quiera opinar puede enviar emails al thread de discusión y será tomado en cuenta.
+### Eleição
 
-Se agradece la difusión.
+Vai ser eleita a sede ao final do último Slot ([data]). Quem não puder assistir e queira opinar pode enviar emails à thread de discussão e será levado em consideração.
 
-Atentamente,
+Agradecemos a divulgação.
 
-Organización SciPy Latinoamérica 2017
-https://github.com/scipy-latinamerica/scipyla2017/edit/master/docs/Call_for_Sedes_ES.md
+Atenciosamente,
+
+Organización SciPy Latin América 2018
